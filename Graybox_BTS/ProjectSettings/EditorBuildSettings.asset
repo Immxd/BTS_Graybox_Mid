@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Bts.unity
     guid: 0b3e77948badaef4c81c953048fc7374
+  - enabled: 1
+    path: Assets/PrefapCreateScene.unity
+    guid: 86077f3b121c4f84394a900ad0aa88e9
   m_configObjects: {}
